@@ -1,0 +1,17 @@
+{
+  "name": "lunch_scraper",
+  "version": "1.0.0",
+  "description": "Getting information about luches and mailing them to configured addresses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MMu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "dayjs": "^1.10.4",
+    "puppeteer": "^8.0.0"
+  }
+}
