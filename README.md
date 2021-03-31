@@ -1,4 +1,4 @@
-#Lunch Scraper
+# Lunch Scraper
 
 Skeleton for scraping lunch lists for collegues.
 
